@@ -1,0 +1,70 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
+}
+section{
+    height: 600px;
+    padding-bottom: 150px;
+}
+.top-banner{
+    
+    border: solid coral;
+    background-image: url("images/header-bg.png");
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+.half-width{
+    width: 41%;
+    margin-top: 150px;
+    float: left;
+    
+    
+    
+}
+.half-width img{
+    width: 82%;
+    
+}
+.one{
+    margin-top: 200px;
+    margin-left: 150px;
+    
+    
+    
+}
+.one span h1{
+    color: crimson; 
+    font-size: 50px; 
+    margin: 0;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button-link{
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 5px;
+    font-weight: 700px;
+    padding: 10px 20px;
+    color: white;
+    
+    
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-position: left;
+    
+}
+P{
+    margin-bottom: 40px;
+    font-size: 16px;
+    text-align: justify;
+}
+
+#second-img{
+    margin-left: 100px;
+
+}
+.latest-work img{
+    width: 75%;
+    float: right;
+}
